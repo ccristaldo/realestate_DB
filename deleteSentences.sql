@@ -1,5 +1,5 @@
 delete from AptEntity where idAptEntity = 1;
-delete from AptEntity where address like "%5th%";
+delete from AptEntity where address like "%ogdana%";
 delete from AptEntity where rooms > 5;
 delete from Branch where tel like "%333%";
 delete from Branch where tel like "%567%";
